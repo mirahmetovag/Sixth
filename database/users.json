@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "username": "USERNAME",
+    "password": "PASSWORD",
+    "created": "2023-06-03T05:45:51.147Z"
+  },
+  {
+    "id": 2,
+    "username": "USERNAME2",
+    "password": "PASSWORD2",
+    "created": "2023-06-03T05:46:01.335Z"
+  },
+  {
+    "id": 3,
+    "username": "USERNAME3",
+    "password": "PASSWORD3",
+    "created": "2023-06-03T05:46:07.511Z"
+  },
+  {
+    "id": 4,
+    "username": "USERNAME4",
+    "password": "PASSWORD4",
+    "created": "2023-06-03T06:17:05.988Z"
+  },
+  {
+    "id": 5,
+    "username": "USERNAME5",
+    "password": "PASSWORD5",
+    "created": "2023-06-03T09:15:59.974Z"
+  },
+  {
+    "id": 6,
+    "username": "USERNAME6",
+    "password": "PASSWORD6",
+    "created": "2023-06-03T09:18:08.723Z"
+  },
+  {
+    "id": 7,
+    "username": "USERNAME7",
+    "password": "PASSWORD7",
+    "created": "2023-06-03T09:20:50.009Z"
+  },
+  {
+    "id": 8,
+    "username": "USERNAME8",
+    "password": "PASSWORD8",
+    "created": "2023-06-03T09:22:39.327Z"
+  },
+  {
+    "id": 9,
+    "username": "USERNAME9",
+    "password": "PASSWORD9",
+    "created": "2023-06-03T09:50:49.635Z"
+  }
+]
